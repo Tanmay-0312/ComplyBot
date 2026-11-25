@@ -1,0 +1,137 @@
+[
+  {
+    "id": "GST-001",
+    "category": "GST",
+    "question": "What is GST?",
+    "answer": "Goods and Services Tax (GST) is an indirect tax in India on the supply of goods and services. It is administered through the GST framework. The applicable tax treatment depends on the nature and place of supply and the current law.",
+    "source_name": "GST Portal – About GST",
+    "source_url": "https://www.gst.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "GST-002",
+    "category": "GST",
+    "question": "Where can I register for GST?",
+    "answer": "GST registration is completed through the official GST portal. Applicants should review the current eligibility rules, required documents and application instructions on the portal before applying.",
+    "source_name": "GST Portal",
+    "source_url": "https://www.gst.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "GST-003",
+    "category": "GST",
+    "question": "What is GSTR-1?",
+    "answer": "GSTR-1 is a GST return used to report details of outward supplies. Filing requirements, due dates, applicability and available amendments should be checked on the GST portal for the relevant tax period.",
+    "source_name": "GST Portal – Returns",
+    "source_url": "https://www.gst.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "GST-004",
+    "category": "GST",
+    "question": "What is GSTR-3B?",
+    "answer": "GSTR-3B is a summary GST return in which eligible taxpayers report summary details of outward and inward supplies and discharge tax liabilities, subject to the applicable rules. Confirm current applicability and filing instructions on the GST portal.",
+    "source_name": "GST Portal – Returns",
+    "source_url": "https://www.gst.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "GST-005",
+    "category": "GST",
+    "question": "How can I check GST return status?",
+    "answer": "Sign in to the official GST portal and use the return dashboard or return status facilities for the relevant GSTIN and tax period. Keep the acknowledgement or reference number for your records.",
+    "source_name": "GST Portal",
+    "source_url": "https://www.gst.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "TDS-001",
+    "category": "TDS",
+    "question": "What is TDS?",
+    "answer": "Tax Deducted at Source (TDS) is a mechanism under the Income-tax Act where a person making specified payments deducts tax at the time and in the manner prescribed by law and deposits it with the government. Applicability depends on payment type, payer, payee and current provisions.",
+    "source_name": "Income Tax Department",
+    "source_url": "https://www.incometax.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "TDS-002",
+    "category": "TDS",
+    "question": "Where can I download Form 26AS?",
+    "answer": "Form 26AS can be accessed through the Income Tax e-Filing portal. Log in and navigate to the tax credit statement service; access may route through the tax information network. Check the portal's current instructions.",
+    "source_name": "Income Tax e-Filing Portal",
+    "source_url": "https://www.incometax.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "TDS-003",
+    "category": "TDS",
+    "question": "What is a TDS certificate?",
+    "answer": "A TDS certificate is a document issued by the deductor to the deductee as prescribed under the Income-tax Act. Common certificates include Form 16 and Form 16A. The applicable certificate and issue requirements depend on the transaction.",
+    "source_name": "Income Tax Department",
+    "source_url": "https://www.incometax.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "TDS-004",
+    "category": "TDS",
+    "question": "How do I check TDS deducted against my PAN?",
+    "answer": "You can review tax credits and TDS details through the Income Tax e-Filing portal, including Form 26AS and AIS where applicable. If a credit is missing or incorrect, contact the deductor and review the portal's correction process.",
+    "source_name": "Income Tax e-Filing Portal",
+    "source_url": "https://www.incometax.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "ROC-001",
+    "category": "Company Filings",
+    "question": "What is MCA?",
+    "answer": "The Ministry of Corporate Affairs (MCA) administers corporate affairs in India, including administration of company law and related online services. Company forms, filing requirements and status services are available through the MCA portal.",
+    "source_name": "Ministry of Corporate Affairs",
+    "source_url": "https://www.mca.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "ROC-002",
+    "category": "Company Filings",
+    "question": "Where do I file company forms in India?",
+    "answer": "Company and LLP e-forms are filed through the Ministry of Corporate Affairs portal, subject to the applicable form, user account and digital-signature requirements. Always use the latest form version and instructions on the MCA portal.",
+    "source_name": "MCA Portal",
+    "source_url": "https://www.mca.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "ROC-003",
+    "category": "Company Filings",
+    "question": "How can I check a company's master data?",
+    "answer": "Use the MCA portal's company/LLP master data service and search using the company name or Corporate Identification Number (CIN), as supported by the portal. Verify the result against official records.",
+    "source_name": "MCA Portal – Company/LLP Master Data",
+    "source_url": "https://www.mca.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "ROC-004",
+    "category": "Company Filings",
+    "question": "What is a CIN?",
+    "answer": "A Corporate Identification Number (CIN) is an identification number allotted to a company registered in India. It is commonly used to identify and search company records on the MCA portal.",
+    "source_name": "MCA Portal",
+    "source_url": "https://www.mca.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "GENERAL-001",
+    "category": "General",
+    "question": "Can this chatbot provide legal or tax advice?",
+    "answer": "No. This chatbot provides general information from its curated FAQ knowledge base. It is not a substitute for advice from a practising chartered accountant, company secretary, tax professional or lawyer. Complex, disputed or time-sensitive matters should be reviewed by a qualified professional.",
+    "source_name": "ComplyBot usage policy",
+    "source_url": "https://www.gst.gov.in/",
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "GENERAL-002",
+    "category": "General",
+    "question": "What should I do if my question is not covered?",
+    "answer": "If the FAQ knowledge base does not contain a sufficiently relevant answer, do not rely on a guess. Contact a qualified compliance professional and consult the relevant official government portal for current rules and deadlines.",
+    "source_name": "ComplyBot usage policy",
+    "source_url": "https://www.incometax.gov.in/",
+    "last_verified": "2026-11-25"
+  }
+]
